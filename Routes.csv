@@ -1,0 +1,365 @@
+﻿CONS,Actor,Name,Cell,Event,date,Date,Days,Location,Country,Region,POI,Latitude,Longitude,Notes,Reference
+1,1,"Atta, M",1,01_01,36679,36679,1,Prague,Czech Republic,International,Prague,50.13712343,14.56758278,,R224
+2,1,"Atta, M",1,01_02,36680,36680,28,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,"T11, R224"
+3,1,"Atta, M",1,01_03,36708,Early July 2000,2,"Norman, OK",United States,Others,"Oklahoma, OK",35.22268428,-97.43858977,"Airman Flight School, early July 2000",F
+4,1,"Atta, M",1,01_04,36710,36710,89,"Venice, FL",United States,Florida,"Tampa, FL",27.09940836,-82.45231781,Huffman Aviation,T12
+5,1,"Atta, M",1,01_05,36799,Late September 2000,1,"Sarasota, FL",United States,Florida,"Tampa, FL",27.34187285,-82.52758401,"Jones Aviation, Late September 2000",R224
+6,1,"Atta, M",1,01_06,36800,Early October 2000,95,"Venice, FL",United States,Florida,"Tampa, FL",27.09940836,-82.45231781,"Huffman Aviation, Early October 2000",T17
+7,1,"Atta, M",1,01_07,36895,36895,6,"Miami International Airport, Miami, FL",United States,International,"Miami, FL",25.79618859,-80.28657306,,T17
+8,1,"Atta, M",1,01_08,36901,Early January 2001,18,Berlin,Germany,International,Berlin,52.60889455,13.56068945,Early January 2001,R243
+9,1,"Atta, M",1,01_09,36919,36919,0,Madrid,Spain,International,Madrid,40.41942405,-3.692263865,,T17
+10,1,"Atta, M",1,01_10,36919,36919,18,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,T17
+11,1,"Atta, M",1,01_11,36937,January-February 2001,0,"Norcross, GA",United States,Others,"Atlanta, GA",33.94141558,-84.21322916,January-February 2001,R229
+12,1,"Atta, M",1,01_12,36937,January-February 2001,0,"Decatur, GA",United States,Others,"Atlanta, GA",33.77488827,-84.29653493,January-February 2001,R229
+13,1,"Atta, M",1,01_13,36937,January-February 2001,4,"Lawrenceville, GA",United States,Others,"Atlanta, GA",33.95636923,-83.98623162,January-February 2001,R229
+14,1,"Atta, M",1,01_14,36941,36941,10,"Virginia Beach, VA",United States,Others,"Virginia Beach, VA",36.85348202,-76.00891003,,R299
+15,1,"Atta, M",1,01_15,36951,unknown,13,"Stone Mountain, GA",United States,Others,"Atlanta, GA",33.80830866,-84.17046033,"between 19 Feb and 14 March 2001, same date as Shehhi M 15_19",R229
+16,1,"Atta, M",1,01_16,36964,36964,21,"Duluth, GA",United States,Others,"Atlanta, GA",34.01024,-84.15495,,FBI128
+17,1,"Atta, M",1,01_17,36985,36985,7,"Virginia Beach, VA",United States,Others,"Virginia Beach, VA",36.85348202,-76.00891003,,"T8, R228"
+18,1,"Atta, M",1,01_18,36992,36992,21,"Coral Springs, FL",United States,Florida,"Miami, FL",26.27127088,-80.2707399,,R230
+19,1,"Atta, M",1,01_19,37013,37013,59,"Lauderdale Lakes, FL",United States,Florida,"Miami, FL",26.16656,-80.20884,,R231
+20,1,"Atta, M",1,01_20,37072,End of June 2001,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,"surveillance flight, end of June 2001",R242
+21,1,"Atta, M",1,01_21,37072,End of June 2001,0,"San Francisco, CA",United States,Others,"San Francisco, CA",37.78139427,-122.4798203,"surveillance flight, end of June 2001",R242
+22,1,"Atta, M",1,01_22,37072,End of June 2001,0,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,"surveillance flight, end of June 2001",R242
+23,1,"Atta, M",1,01_23,37072,End of June 2001,4,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,"surveillance flight, end of June 2001",R243
+24,1,"Atta, M",1,01_24,37076,37076,3,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,most likely met with Hamzi,"T28, R243"
+25,1,"Atta, M",1,01_25,37079,37079,1,"Fort Lauderdale, FL",United States,International,"Miami, FL",26.23475377,-80.08476381,,
+26,1,"Atta, M",1,01_26,37080,37080,1,Madrid,Spain,International,Madrid,40.41942405,-3.692263865,,R244
+27,1,"Atta, M",1,01_27,37081,37081,0,Reus,Spain,International,Reus,41.1497516,1.104421384,,R244
+28,1,"Atta, M",1,01_28,37081,37081,10,Cambrils,Spain,International,Reus,41.06685061,1.062234013,,R244
+29,1,"Atta, M",1,01_29,37091,37091,0,Madrid,Spain,International,Madrid,40.41942405,-3.692263865,,R244
+30,1,"Atta, M",1,01_30,37091,37091,1,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,,T28
+31,1,"Atta, M",1,01_31,37092,37092,5,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,R244
+32,1,"Atta, M",1,01_32,37097,37097,0,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,R246
+33,1,"Atta, M",1,01_33,37097,37097,1,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,R248
+34,1,"Atta, M",1,01_34,37098,37098,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R248
+35,1,"Atta, M",1,01_35,37098,37098,4,"Wayne, NJ",United States,Northeast,NYC,40.945334,-74.24408184,,F
+36,1,"Atta, M",1,01_36,37102,37102,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,F
+37,1,"Atta, M",1,01_37,37102,37102,5,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,R248
+38,1,"Atta, M",1,01_38,37107,37107,0,"Orlando International Airport, FL",United States,Florida,"Orlando, FL",28.41796386,-81.30427385,,"T29, R248"
+39,1,"Atta, M",1,01_39,37107,37107,3,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,R248
+40,1,"Atta, M",1,01_40,37110,37110,6,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R248
+41,1,"Atta, M",1,01_41,37116,37116,1,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,,R248
+42,1,"Atta, M",1,01_42,37117,37117,9,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,
+43,1,"Atta, M",1,01_43,37126,37126,5,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,"R249, FBI232"
+44,1,"Atta, M",1,01_44,37131,37131,10,"Baltimore, MD",United States,Northeast,"Washington, DC",39.17511703,-76.66753383,,FBI241
+45,1,"Atta, M",1,01_45,37141,37141,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,R253
+46,1,"Atta, M",1,01_46,37141,37141,2,"Baltimore, MD",United States,Northeast,"Washington, DC",39.17511703,-76.66753383,,R253
+47,1,"Atta, M",1,01_47,37143,37143,1,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+48,1,"Atta, M",1,01_48,37144,37144,1,"Portland, ME",United States,Others,"Portland, ME",43.65515923,-70.24501905,,R253
+49,1,"Atta, M",1,01_49,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+50,1,"Atta, M",1,01_50,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+51,2,"Omari, A",1,02_01,37071,37071,0,Dubai,United Arab Emirates,International,Dubai,24.91480452,53.91915664,,T27
+52,2,"Omari, A",1,02_02,37071,37071,0,Zurich,Switzerland,International,Zurich,47.37487626,8.5346534,TRANSIT,CTE
+53,2,"Omari, A",1,02_03,37071,37071,1,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,T27
+54,2,"Omari, A",1,02_04,37072,37072,6,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,"Assume 30 June 2001, goes to live with other hijackers",assumed
+55,2,"Omari, A",1,02_05,37078,37078,34,"Hackensack, NJ",United States,Northeast,NYC,40.86225,-74.04678,,FBI178
+56,2,"Omari, A",1,02_06,37112,37112,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,CTE
+57,2,"Omari, A",1,02_07,37112,37112,28,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,R248
+58,2,"Omari, A",1,02_08,37140,37140,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+59,2,"Omari, A",1,02_09,37140,37140,4,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,Days leading up to september 10 2001,R253
+60,2,"Omari, A",1,02_10,37144,37144,1,"Portland, ME",United States,Others,"Portland, ME",43.65515923,-70.24501905,,R253
+61,2,"Omari, A",1,02_11,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+62,2,"Omari, A",1,02_12,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+63,3,"Shehri, W",1,03_01,37004,37004,0,Dubai,United Arab Emirates,International,Dubai,25.30819815,55.29449416,,T21
+64,3,"Shehri, W",1,03_02,37004,37004,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+65,3,"Shehri, Wal",1,03_03,37004,37004,7,"Orlando International Airport, FL",United States,Florida,"Orlando, FL",28.41796386,-81.30427385,,"T134, T21"
+66,3,"Shehri, Wal",1,03_04,37011,37011,19,"Hollywood, FL",United States,Florida,"Miami, FL",26.01292579,-80.1461961,,CTE
+67,3,"Shehri, Wal",1,03_05,37030,37030,0,"Fort Lauderdale, FL",United States,International,"Miami, FL",26.23475377,-80.08476381,,R241
+68,3,"Shehri, Wal",1,03_06,37030,37030,0,Freeport,Bahamas,International,Bahamas,26.53298354,-78.64203627,,R241
+69,3,"Shehri, Wal",1,03_07,37030,37030,72,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,T23
+70,3,"Shehri, Wal",1,03_08,37102,37102,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,R242
+71,3,"Shehri, Wal",1,03_09,37102,37102,1,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R242
+72,3,"Shehri, Wal",1,03_10,37103,37103,1,"San Francisco, CA",United States,Others,"San Francisco, CA",37.78139427,-122.4798203,,R242
+73,3,"Shehri, Wal",1,03_11,37104,37104,0,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,connecting flight,R242
+74,3,"Shehri, Wal",1,03_12,37104,37104,35,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,R242
+75,3,"Shehri, Wal",1,03_13,37139,37139,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,CTE
+76,3,"Shehri, Wal",1,03_14,37139,37139,6,"Newton, MA",United States,Northeast,"Boston, MA",42.3385591,-71.20902849,,R253
+77,3,"Shehri, Wal",1,03_15,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+78,3,"Shehri, Wal",1,03_16,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+79,4,"Suqami, S",1,04_01,37004,37004,,Dubai,United Arab Emirates,International,Dubai,25.30819815,55.29449416,,T16
+80,4,"Suqami, S",1,04_02,37004,37004,,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+81,4,"Suqami, S",1,04_03,37004,37004,7,"Orlando International Airport, FL",United States,Florida,"Orlando, FL",28.41796386,-81.30427385,,T21
+82,4,"Suqami, S",1,04_04,37011,37011,19,"Hollywood, FL",United States,Florida,"Miami, FL",26.01292579,-80.1461961,,CTE
+83,4,"Suqami, S",1,04_05,37030,37030,0,"Fort Lauderdale, FL",United States,International,"Miami, FL",26.23475377,-80.08476381,,T21
+84,4,"Suqami, S",1,04_06,37030,37030,0,Freeport,Bahamas,International,Bahamas,26.53298354,-78.64203627,,T23
+85,4,"Suqami, S",1,04_07,37030,37030,52,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,T23
+86,4,"Suqami, S",1,04_08,37082,37082,58,"Orlando International Airport, FL",United States,Florida,"Orlando, FL",28.41796386,-81.30427385,,FBI183
+87,4,"Suqami, S",1,04_09,37140,37140,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,CTE
+88,4,"Suqami, S",1,04_10,37140,37140,5,"Newton, MA",United States,Northeast,"Boston, MA",42.3385591,-71.20902849,,R253
+89,4,"Suqami, S",1,04_11,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+90,4,"Suqami, S",1,04_12,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+91,5,"Shehri, W",1,05_01,37050,37050,0,Dubai,United Arab Emirates,International,Dubai,25.30819815,55.29449416,,"T24, FBI137"
+92,5,"Shehri, W",1,05_02,37050,37050,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+93,5,"Shehri, Wai",1,05_03,37050,37050,89,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,T24
+94,5,"Shehri, Wai",1,05_04,37139,37139,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+95,5,"Shehri, Wai",1,05_05,37139,37139,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,CTE
+96,5,"Shehri, Wai",1,05_06,37139,37139,6,"Newton, MA",United States,Northeast,"Boston, MA",42.3385591,-71.20902849,,R253
+97,5,"Shehri, Wai",1,05_07,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+98,5,"Shehri, Wai",1,05_08,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+99,6,"Hanjour, H",2,06_01,35750,35750,0,Frankfurt Airport,Germany,International,Frankfurt,50.03799726,8.561997362,,FBI15
+100,6,"Hanjour, H",2,06_02,35750,35750,15,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,"Heading to [REDACTED], FL",FBI15
+101,6,"Hanjour, H",2,06_03,35765,Early Dec 97,84,"Phoenix, AZ",United States,California,"Phoenix, AZ",33.44397,-111.99899,"Sky Harbor Airport, Phoenix, AZ, early December 1997",FBI15
+102,6,"Hanjour, H",2,06_04,35849,35849,24,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,"Bank Statements indicate, Las Vegas not confirmed",FBI16
+103,6,"Hanjour, H",2,06_05,35873,35873,405,"Mesa, AZ",United States,California,"Phoenix, AZ",33.43669,-111.73845,Rented,FBI20
+104,6,"Hanjour, H",2,06_06,36278,36278,353,"New York City, NY",United States,International,NYC,40.71212598,-74.01324032,Royal Jordanian flight to Jordan,FBI41
+105,6,"Hanjour, H",2,06_07,36631,Spring 2000,66,Karachi,Pakistan,International,Karachi,24.96467101,67.0092933,Spring 2000,R226
+106,6,"Hanjour, H",2,06_08,36697,36697,82,Saudi Arabia,Saudi Arabia,International,Jeddah,23.35247896,45.32134438,,R226
+107,6,"Hanjour, H",2,06_09,36779,36779,15,Jeddah,Saudi Arabia,International,Jeddah,21.48660601,39.20005728,,"T13, R226"
+108,6,"Hanjour, H",2,06_10,36794,36794,74,Jeddah,Saudi Arabia,International,Jeddah,21.48660601,39.20005728,,"T13, R226"
+109,6,"Hanjour, H",2,06_11,36868,36868,0,Dubai,United Arab Emirates,International,Dubai,25.26734155,55.2968889,,R226
+110,6,"Hanjour, H",2,06_12,36868,36868,0,"Cincinnatti/Northern Kentucky International Airport, Hebron, KY",United States,Others,"Hebron, KY",39.05057794,-84.66427643,transit,R223
+111,6,"Hanjour, H",2,06_13,36868,36868,7,"San Diego, CA",United States,California,"San Diego, CA",32.7170278,-117.1550261,,"T8, T16, R223"
+112,6,"Hanjour, H",2,06_14,36875,Mid-December 2000,100,"Mesa, AZ",United States,California,"Phoenix, AZ",33.43669,-111.73845,"shortly after arriving in San Diego, Mid-December 2000",R223
+113,6,"Hanjour, H",2,06_15,36975,End of March 2001,10,"Phoenix, AZ",United States,California,"Phoenix, AZ",33.44397,-111.99899,End of March 2001,CTE
+114,6,"Hanjour, H",2,06_16,36985,36985,1,"Falls Church, VA",United States,Northeast,"Washington, DC",38.88245747,-77.17497049,,R227
+115,6,"Hanjour, H",2,06_17,36986,unknown,33,"Alexandria, VA",United States,Northeast,"Washington, DC",38.80449873,-77.06308849,"Soon after 4 April 2001, gets apartment (with Nawaf al Hazmi)",R230
+116,6,"Hanjour, H",2,06_18,37019,37019,13,"Fairfield, CT",United States,Northeast,NYC,41.14019519,-73.26672532,,R230
+117,6,"Hanjour, H",2,06_19,37032,37032,60,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R230
+118,6,"Hanjour, H",2,06_20,37092,37092,0,"Caldwell, NJ",United States,Northeast,NYC,40.84002437,-74.2772871,to rent plane,R242
+119,6,"Hanjour, H",2,06_21,37092,37092,0,"Fairfield, CT",United States,Northeast,NYC,41.14019519,-73.26672532,to practice flight,R242
+120,6,"Hanjour, H",2,06_22,37092,37092,0,"Gaithersburg, MD",United States,Northeast,"Washington, DC",39.1450813,-77.20057659,to practice flight,R242
+121,6,"Hanjour, H",2,06_23,37092,37092,5,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R242
+122,6,"Hanjour, H",2,06_24,37097,"June, July 2001",1,"Teterboro, NJ",United States,Northeast,NYC,40.85897176,-74.06087046,"Air Fleet Training System, June-July 2001",R242
+123,6,"Hanjour, H",2,06_25,37098,"June, July 2001",6,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,June-July 2001,R242
+124,6,"Hanjour, H",2,06_26,37104,37104,1,"Springfield, VA",United States,Northeast,"Washington, DC",38.7856915,-77.17809281,,R242
+125,6,"Hanjour, H",2,06_27,37105,37105,3,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R242
+126,6,"Hanjour, H",2,06_28,37108,unknown,5,"Totowa, NJ",United States,Northeast,NYC,40.9049546,-74.21474108,between 2-13 August 2001,R242
+127,6,"Hanjour, H",2,06_29,37113,unknown,3,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,between 2-13 August 2001,R242
+128,6,"Hanjour, H",2,06_30,37116,37116,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,surveillance flight,CTE
+129,6,"Hanjour, H",2,06_31,37116,37116,0,"Los Angeles International Airport, Los Angeles, CA",United States,California,"Los Angeles, CA",33.94424125,-118.4023824,surveillance flight,CTE
+130,6,"Hanjour, H",2,06_32,37116,37116,0,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,surveillance flight,R248
+131,6,"Hanjour, H",2,06_33,37116,37116,0,"Minneapolis−Saint Paul International Airport, Minneapolis, MN",United States,Others,"Minneapolis, MN",44.8849668,-93.23052103,surveillance flight,CTE
+132,6,"Hanjour, H",2,06_34,37116,37116,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,surveillance flight,CTE
+133,6,"Hanjour, H",2,06_35,37116,37116,3,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,CTE
+134,6,"Hanjour, H",2,06_36,37119,37119,0,"Laurel, MD",United States,Northeast,"Washington, DC",39.09983615,-76.84884113,Valencia Motel,FBI222
+135,6,"Hanjour, H",2,06_37,37119,37119,8,"College Park, MD",United States,Northeast,"Washington, DC",38.99406,-76.95339,,FBI222
+136,6,"Hanjour, H",2,06_38,37127,37127,9,"Laurel, MD",United States,Northeast,"Washington, DC",39.09983615,-76.84884113,Motel,FBI233
+137,6,"Hanjour, H",2,06_39,37136,37136,8,"Laurel, MD",United States,Northeast,"Washington, DC",39.09983615,-76.84884113,,R252
+138,6,"Hanjour, H",2,06_40,37144,37144,1,"Herndon, VA",United States,Northeast,"Washington, DC",38.9700389,-77.3881883,,R253
+139,6,"Hanjour, H",2,06_41,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+140,6,"Hanjour, H",2,06_42,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+141,7,"Mihdhar, K",2,07_01,36533,36533,0,Bangkok,Thailand,International,Bangkok,13.74523741,100.5019521,,R215
+142,7,"Mihdhar, K",2,07_02,36540,36540,17,"Los Angeles International Airport, Los Angeles, CA",United States,California,"Los Angeles, CA",33.94424125,-118.4023824,,"T10, R215"
+143,7,"Mihdhar, K",2,07_03,36557,36557,3,"Culver City, CA",United States,California,"Los Angeles, CA",34.02069285,-118.3988971,,R217
+144,7,"Mihdhar, K",2,07_04,36560,36560,122,"San Diego, CA",United States,California,"San Diego, CA",32.7170278,-117.1550261,,R218
+145,7,"Mihdhar, K",2,07_05,36682,36678,4,"Culver City, CA",United States,California,"Los Angeles, CA",34.02069285,-118.3988971,,R216
+146,7,"Mihdhar, K",2,07_06,36686,36686,1,"Los Angeles International Airport, Los Angeles, CA",United States,International,"Los Angeles, CA",33.94424125,-118.4023824,,"T11, R220, R222"
+147,7,"Mihdhar, K",2,07_07,36687,36687,35,Yemen,Yemen,International,Yemen,15.8613266,47.39389578,,R223
+148,7,"Mihdhar, K",2,07_08,36722,36708,139,Afghanistan,Afghanistan,International,Afghanistan,33.81595045,65.5182552,,R237
+149,7,"Mihdhar, K",2,07_09,36861,Late 2000,62,Mecca,Saudi Arabia,International,Mecca,21.39609524,39.86136586,,R237
+150,7,"Mihdhar, K",2,07_10,36923,44593,0,Syria,Syria,International,Syria,34.99257218,38.61560323,unconfirmed,R241
+151,7,"Mihdhar, K",2,07_11,36923,44593,0,Iran,Iran,International,Iran,32.14241434,54.24276458,unconfirmed,R241
+152,7,"Mihdhar, K",2,07_12,36923,44593,124,Afghanistan,Afghanistan,International,Afghanistan,33.81595045,65.5182552,,R237
+153,7,"Mihdhar, K",2,07_13,37047,Early June 2001,8,Mecca,Saudi Arabia,International,Mecca,21.39609524,39.86136586,Early June 2001,R237
+154,7,"Mihdhar, K",2,07_14,37055,37055,21,Jeddah,Saudi Arabia,International,Jeddah,21.48660601,39.20005728,,"T24, R237"
+155,7,"Mihdhar, K",2,07_15,37076,37076,1,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,"T27, R237"
+156,7,"Mihdhar, K",2,07_16,37077,37077,27,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R240
+157,7,"Mihdhar, K",2,07_17,37104,37104,35,"Falls Church, VA",United States,Northeast,"Washington, DC",38.88245747,-77.17497049,,T29
+158,7,"Mihdhar, K",2,07_18,37139,Early September 2001,5,"Laurel, MD",United States,Northeast,"Washington, DC",39.09983615,-76.84884113,Early September 2001,R252
+159,7,"Mihdhar, K",2,07_19,37144,37144,1,"Herndon, VA",United States,Northeast,"Washington, DC",38.9700389,-77.3881883,,R253
+160,7,"Mihdhar, K",2,07_20,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+161,7,"Mihdhar, K",2,07_21,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+162,8,"Moqed, M",2,08_02,36648,36648,0,Dubai,United Arab Emirates,International,Dubai,25.30819815,55.29449416,,CTE
+163,8,"Moqed, M",2,08_03,36648,36648,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+164,8,"Moqed, M",2,08_01,36850,36850,0,Riyadh,Saudi Arabia,International,Riyadh,24.83371747,46.68518746,Not clear if before or after other travel,T16
+165,8,"Moqed, M",2,08_04,37013,37013,1,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,T22
+166,8,"Moqed, M",2,08_05,37014,44319,5,"Alexandria, VA",United States,Northeast,"Washington, DC",38.80449873,-77.06308849,"Became Hanjour’s roommate, assuming he entered country and went directly to Alexandria to live with him",ASSUMED
+167,8,"Moqed, M",2,08_06,37019,37019,28,"Fairfield, CT",United States,Northeast,NYC,41.14019519,-73.26672532,,R230
+168,8,"Moqed, M",2,08_07,37047,Late May early June 2001,34,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,Late May early June 2001,R230
+169,8,"Moqed, M",2,08_08,37081,37081,58,"Totowa, NJ",United States,Northeast,NYC,40.9049546,-74.21474108,,FBI181
+170,8,"Moqed, M",2,08_09,37139,Early September 2001,5,"Laurel, MD",United States,Northeast,"Washington, DC",39.09983615,-76.84884113,Early September 2001,R252
+171,8,"Moqed, M",2,08_10,37144,37144,1,"Herndon, VA",United States,Northeast,"Washington, DC",38.9700389,-77.3881883,,R253
+172,8,"Moqed, M",2,08_11,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+173,8,"Moqed, M",2,08_12,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+174,9,"Hazmi, N",2,09_01,36526,36526,0,Southeast Asia,,International,Southeast Asia,14.22680953,101.5715238,Described more in chapter 5 commission report,R215
+175,9,"Hazmi, N",2,09_02,36540,36540,17,"Los Angeles International Airport, Los Angeles, CA",United States,California,"Los Angeles, CA",33.94424125,-118.4023824,,"T10, R215"
+176,9,"Hazmi, N",2,09_03,36557,36557,3,"Culver City, CA",United States,California,"Los Angeles, CA",34.02069285,-118.3988971,,"R216, R217"
+177,9,"Hazmi, N",2,09_04,36560,36560,126,"San Diego, CA",United States,California,"San Diego, CA",32.7170278,-117.1550261,,R218
+178,9,"Hazmi, N",2,09_05,36686,36686,6,"Los Angeles International Airport, Los Angeles, CA",United States,California,"Los Angeles, CA",33.94424125,-118.4023824,,R222
+179,9,"Hazmi, N",2,09_06,36692,36678,153,"San Diego, CA",United States,California,"San Diego, CA",32.7170278,-117.1550261,,FBI102
+180,9,"Hazmi, N",2,09_07,36845,36831,12,"National City, CA",United States,California,"San Diego, CA",32.66575,-117.09125,,FBI105
+181,9,"Hazmi, N",2,09_08,36857, 27-Nov-2000,18,"La Mesa, CA",United States,California,"San Diego, CA",32.76292,-117.03015,,FBI107
+182,9,"Hazmi, N",2,09_09,36875,Mid-December 2000,100,"Mesa, AZ",United States,California,"Phoenix, AZ",33.43669,-111.73845,"With Hanjour, Mid-December 2000","R220, R223, R226"
+183,9,"Hazmi, N",2,09_10,36975,End of March 2001,10,"Phoenix, AZ",United States,California,"Phoenix, AZ",33.44397,-111.99899,End of March 2001,CTE
+184,9,"Hazmi, N",2,09_11,36985,36985,9,"Falls Church, VA",United States,Northeast,"Washington, DC",38.88245747,-77.17497049,,R227
+185,9,"Hazmi, N",2,09_12,36994,36994,1,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,,FBI134
+186,9,"Hazmi, N",2,09_13,36995,unknown,24,"Alexandria, VA",United States,Northeast,"Washington, DC",38.80449873,-77.06308849,"Soon after 13 April 2001, get an apartment (with Hanjour)",R230
+187,9,"Hazmi, N",2,09_14,37019,37019,28,"Fairfield, CT",United States,Northeast,NYC,41.14019519,-73.26672532,,R230
+188,9,"Hazmi, N",2,09_15,37047,Late may early June 2001,14,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,Late May early June 2001,R230
+189,9,"Hazmi, N",2,09_16,37061,37061,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,Met with Atta?,R243
+190,9,"Hazmi, N",2,09_17,37061,37061,6,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,R243
+191,9,"Hazmi, N",2,09_18,37067,37067,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R243
+192,9,"Hazmi, N",2,09_19,37067,37067,25,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R243
+193,9,"Hazmi, N",2,09_20,37092,37092,0,"Caldwell, NJ",United States,Northeast,NYC,40.84002437,-74.2772871,to rent plane,R242
+194,9,"Hazmi, N",2,09_21,37092,37092,0,"Fairfield, CT",United States,Northeast,NYC,41.14019519,-73.26672532,to practice flight,R242
+195,9,"Hazmi, N",2,09_22,37092,37092,0,"Gaithersburg, MD",United States,Northeast,"Washington, DC",39.1450813,-77.20057659,to practice flight,R242
+196,9,"Hazmi, N",2,09_23,37092,37092,6,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R242
+197,9,"Hazmi, N",2,09_24,37098,37098,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R248
+198,9,"Hazmi, N",2,09_25,37098,37098,12,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R248
+199,9,"Hazmi, N",2,09_26,37110,37110,6,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R248
+200,9,"Hazmi, N",2,09_28,37116,37116,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,surveillance flight,
+201,9,"Hazmi, N",2,09_29,37116,37116,0,"Los Angeles International Airport, Los Angeles, CA",United States,California,"Los Angeles, CA",33.94424125,-118.4023824,surveillance flight,
+202,9,"Hazmi, N",2,09_30,37116,37116,0,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,surveillance flight,
+203,9,"Hazmi, N",2,09_31,37116,37116,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,surveillance flight,
+204,9,"Hazmi, N",2,09_32,37116,37116,10,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,
+205,9,"Hazmi, N",2,09_33,37126,37126,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R249
+206,9,"Hazmi, N",2,09_34,37126,37126,13,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,,R249
+207,9,"Hazmi, N",2,09_35,37139,Early September 2001,5,"Laurel, MD",United States,Northeast,"Washington, DC",39.09983615,-76.84884113,Early September 2001,R252
+208,9,"Hazmi, N",2,09_36,37144,37144,1,"Herndon, VA",United States,Northeast,"Washington, DC",38.9700389,-77.3881883,,R253
+209,9,"Hazmi, N",2,09_37,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+210,9,"Hazmi, N",2,09_38,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+211,10,"Hazmi, S",2,10_01,37071,37071,,Dubai,United Arab Emirates,International,Dubai,24.91480452,53.91915664,,
+212,10,"Hazmi, S",2,10_02,37071,37071,1,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,T27
+213,10,"Hazmi, S",2,10_03,37072,37072,67,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,"Lands, assuming he goes directly to Paterson to live with brother in apartment",R230
+214,10,"Hazmi, S",2,10_04,37139,Early September 2001,5,"Laurel, MD",United States,Northeast,"Washington, DC",39.09983615,-76.84884113,Early September 2001,R252
+215,10,"Hazmi, S",2,10_05,37144,37144,1,"Herndon, VA",United States,Northeast,"Washington, DC",38.9700389,-77.3881883,,R253
+216,10,"Hazmi, S",2,10_06,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+217,10,"Hazmi, S",2,10_07,37145,37145,0,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,R253
+218,11,"Jarrah, Z",3,11_01,36671,36671,0,Berlin,Germany,International,Berlin,52.60889455,13.56068945,,T117
+219,11,"Jarrah, Z",3,11_02,36704,36704,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R224
+220,11,"Jarrah, Z",3,11_03,36704,36704,105,"Venice, FL",United States,International,"Tampa, FL",27.09940836,-82.45231781,Florida Flight Training Center,R224
+221,11,"Jarrah, Z",3,11_04,36809,36800,10,Dusseldorf,Germany,International,Dusseldorf,51.26849236,6.748247551,,R224
+222,11,"Jarrah, Z",3,11_05,36819,36800,5,Paris,France,International,Paris,48.89158712,2.303498822,,R224
+223,11,"Jarrah, Z",3,11_06,36824,36800,4,Frankfurt Airport,Germany,International,Frankfurt,50.03799726,8.561997362,,T15
+224,11,"Jarrah, Z",3,11_07,36828,36828,12,"Tampa, FL",United States,Florida,"Tampa, FL",27.98201345,-82.48358204,,"T15, R224"
+225,11,"Jarrah, Z",3,11_08,36840,unknown,15,"Venice, FL",United States,Florida,"Tampa, FL",27.09940836,-82.45231781,between 29 Oct and 25 Nov 2000,
+226,11,"Jarrah, Z",3,11_09,36855,36855,0,"Miami International Airport, Miami, FL",United States,International,"Miami, FL",25.79618859,-80.28657306,,T16
+227,11,"Jarrah, Z",3,11_10,36855,36855,0,Nassau,Bahamas,International,Bahamas,25.04156495,-77.35559677,,T16
+228,11,"Jarrah, Z",3,11_11,36855,36855,6,"Venice, FL",United States,International,"Tampa, FL",27.09940836,-82.45231781,,T16
+229,11,"Jarrah, Z",3,11_12,36861,36861,14,Germany,Germany,International,Dusseldorf,51.1313427,10.407503,,R227
+230,11,"Jarrah, Z",3,11_13,36875,36861,5,Beirut,Lebanon,International,Beirut,34.0022678,35.53687693,,R227
+231,11,"Jarrah, Z",3,11_14,36880,In between,7,Dusseldorf,Germany,International,Dusseldorf,51.26849236,6.748247551,some time in between Dec 2000 and Dec 27 2000,T17
+232,11,"Jarrah, Z",3,11_15,36887,36887,9,Istanbul,Turkey,International,Istanbul,41.01327,28.87619,,FBI114
+233,11,"Jarrah, Z",3,11_16,36896,36896,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,FBI117
+234,11,"Jarrah, Z",3,11_17,36896,36896,5,"Tampa, FL",United States,Florida,"Tampa, FL",27.98201345,-82.48358204,,FBI117
+235,11,"Jarrah, Z",3,11_18,36901,,6,"Venice, FL",United States,Florida,"Tampa, FL",27.09940836,-82.45231781,between 5-16 Jan 2001,
+236,11,"Jarrah, Z",3,11_19,36907,36907,10,"Newark, NJ",United States,International,NYC,40.68952324,-74.17459115,,FBI119
+237,11,"Jarrah, Z",3,11_20,36917,36917,6,Beirut,Lebanon,International,Beirut,34.0022678,35.53687693,,R227
+238,11,"Jarrah, Z",3,11_21,36923,Some time in between,24,Dusseldorf,Germany,International,Dusseldorf,51.26849236,6.748247551,some time in between 26 Jan 2001 and 25 Feb 2001,R227
+239,11,"Jarrah, Z",3,11_22,36947,36947,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,"possible return to Venice, FL",T134
+240,11,"Jarrah, Z",3,11_23,36947,36947,18,"Venice, FL",United States,Florida,"Tampa, FL",27.09940836,-82.45231781,,assumed
+241,11,"Jarrah, Z",3,11_24,36965,Mid march 2001,15,"Decatur, GA",United States,International,"Atlanta, GA",33.77488827,-84.29944901,Mid March 2001,R229
+242,11,"Jarrah, Z",3,11_25,36980,36980,14,Dusseldorf,Germany,International,Dusseldorf,51.26849236,6.748247551,,R229
+243,11,"Jarrah, Z",3,11_26,36994,36994,0,Amsterdam,Netherlands,International,Amsterdam,52.30869855,4.769376369,,
+244,11,"Jarrah, Z",3,11_27,36994,36994,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,,
+245,11,"Jarrah, Z",3,11_28,36994,36994,19,"Hollywood, FL",United States,Florida,"Miami, FL",26.01292579,-80.1461961,,CTE
+246,11,"Jarrah, Z",3,11_29,37013,37013,34,"Lauderdale Lakes, FL",United States,Florida,"Miami, FL",26.16656,-80.20884,,R231
+247,11,"Jarrah, Z",3,11_30,37047,Early June 2001,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,Early June 2001,R242
+248,11,"Jarrah, Z",3,11_31,37047,Early June 2001,0,"Philadelphia, PA",United States,Northeast,"Philadelphia, PA",39.99597991,-75.04714844,"Hortman Aviation, Early June 2001",R242
+249,11,"Jarrah, Z",3,11_32,37047,Early June 2001,1,"Baltimore, MD",United States,Northeast,"Washington, DC",39.17511703,-76.66753383,"surveillance flight, Early June 2001",R242
+250,11,"Jarrah, Z",3,11_33,37048,Early June 2001,0,"Los Angeles International Airport, Los Angeles, CA",United States,California,"Los Angeles, CA",33.94424125,-118.4023824,"surveillance flight, Early June 2001",R242
+251,11,"Jarrah, Z",3,11_34,37048,Early June 2001,1,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,"surveillance flight, Early June 2001",R242
+252,11,"Jarrah, Z",3,11_35,37049,Early June 2001,48,"Baltimore, MD",United States,Northeast,"Washington, DC",39.17511703,-76.66753383,"surveillance flight, Early June 2002",R242
+253,11,"Jarrah, Z",3,11_36,37097,37097,0,"Miami International Airport, Miami, FL",United States,International,"Miami, FL",25.79618859,-80.28657306,,R246
+254,11,"Jarrah, Z",3,11_37,37097,37097,11,Dusseldorf,Germany,International,Dusseldorf,51.26849236,6.748247551,,R246
+255,11,"Jarrah, Z",3,11_38,37108,37108,20,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,R249
+256,11,"Jarrah, Z",3,11_39,37128,End of August 2001,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,End of August 2001,CTE
+257,11,"Jarrah, Z",3,11_40,37128,End of August 2001,0,"Baltimore, MD",United States,Northeast,"Washington, DC",39.17511703,-76.66753383,End of August 2001,"CTE, FBI240"
+258,11,"Jarrah, Z",3,11_41,37128,End of August 2001,13,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,End of August 2001,CTE
+259,11,"Jarrah, Z",3,11_42,37141,37141,4,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R253
+260,11,"Jarrah, Z",3,11_43,37145,37145,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R253
+261,11,"Jarrah, Z",3,11_44,37145,37145,0,"Stonycreek Township, PA",United States,Northeast,"Stonycreek Township, PA",40.06041827,-78.89478597,,R253
+262,12,"Ghamdi, S",3,12_01,37069,37069,0,Dubai,United Arab Emirates,International,Dubai,24.91480452,53.91915664,,T26
+263,12,"Ghamdi, S",3,12_02,37069,37069,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+264,12,"Ghamdi, S",3,12_03,37069,37069,72,"Orlando International Airport, FL",United States,Florida,"Orlando, FL",28.41796386,-81.30427385,,T26
+265,12,"Ghamdi, S",3,12_04,37141,37141,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+266,12,"Ghamdi, S",3,12_05,37141,37141,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,transit,CTE
+267,12,"Ghamdi, S",3,12_06,37141,37141,4,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,"T21, R253"
+268,12,"Ghamdi, S",3,12_07,37145,37145,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R253
+269,12,"Ghamdi, S",3,12_08,37145,37145,0,"Stonycreek Township, PA",United States,Northeast,"Stonycreek Township, PA",40.06041827,-78.89478597,,R253
+270,13,"Nami, A",3,13_01,37039,37039,0,Dubai,United Arab Emirates,International,Dubai,24.91480452,53.91915664,,T23
+271,13,"Nami, A",3,13_02,37039,37039,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+272,13,"Nami, A",3,13_03,37039,37039,102,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,T23
+273,13,"Nami, A",3,13_04,37141,37141,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+274,13,"Nami, A",3,13_05,37141,37141,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,transit,CTE
+275,13,"Nami, A",3,13_06,37141,37141,4,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R253
+276,13,"Nami, A",3,13_07,37145,37145,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R253
+277,13,"Nami, A",3,13_08,37145,37145,0,"Stonycreek Township, PA",United States,Northeast,"Stonycreek Township, PA",40.06041827,-78.89478597,,R253
+278,14,"Haznawi, A",3,14_01,37050,37050,0,Dubai,United Arab Emirates,International,Dubai,25.30819815,55.29449416,,T24
+279,14,"Haznawi, A",3,14_02,37050,37050,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+280,14,"Haznawi, A",3,14_03,37050,37050,17,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,T24
+281,14,"Haznawi, A",3,14_04,37067,37067,74,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,Hospital,FBI165
+282,14,"Haznawi, A",3,14_05,37141,37141,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+283,14,"Haznawi, A",3,14_06,37141,37141,4,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R253
+284,14,"Haznawi, A",3,14_07,37145,37145,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,R253
+285,14,"Haznawi, A",3,14_08,37145,37145,0,"Stonycreek Township, PA",United States,Northeast,"Stonycreek Township, PA",40.06041827,-78.89478597,,R253
+286,15,"Shehhi, M",4,15_01,36543,36543,132,Dubai,United Arab Emirates,International,Dubai,25.30819815,55.29449416,,T10
+287,15,"Shehhi, M",4,15_02,36675,36675,0,Brussels,Belgium,International,Brussels,50.89734411,4.428867109,,"T11, R223"
+288,15,"Shehhi, M",4,15_03,36675,36675,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,"T11, R223"
+289,15,"Shehhi, M",4,15_04,36675,36675,34,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,Days Inn Hotel,FBI66
+290,15,"Shehhi, M",4,15_05,36709,36709,0,"Chicago, IL",United States,Others,"Chicago, IL",41.9801,-87.90913,NY to CHI flight,FBI72
+291,15,"Shehhi, M",4,15_06,36709,36709,1,"Norman, OK",United States,Others,"Oklahoma, OK",35.22268428,-97.43858977,"CHI to OK, Airman Flight School",R224
+292,15,"Shehhi, M",4,15_07,36710,36710,84,"Venice, FL",United States,Florida,"Tampa, FL",27.09940836,-82.45231781,Huffman Aviation,"T12, R224"
+293,15,"Shehhi, M",4,15_08,36794,Late September 2000,6,"Sarasota, FL",United States,Florida,"Tampa, FL",27.34187285,-82.52758401,"Jones Aviation, Late September 2000",R224
+294,15,"Shehhi, M",4,15_09,36800,Early October 2000,106,"Venice, FL",United States,International,"Tampa, FL",27.09940836,-82.45231781,"Huffman Aviation, Early October 2000",R224
+295,15,"Shehhi, M",4,15_10,36906,Mid January 2001,3,Casablanca,Morocco,International,Casablanca,33.66656462,-7.52682975,Mid January 2001,"T19, R228"
+296,15,"Shehhi, M",4,15_11,36909,36909,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,"T19, R228"
+297,15,"Shehhi, M",4,15_12,36909,36909,7,"Tampa, FL",United States,Florida,"Tampa, FL",27.98201345,-82.48358204,,FBI120
+298,15,"Shehhi, M",4,15_13,36916,January-February 2001,0,"Norcross, GA",United States,Others,"Atlanta, GA",33.94141558,-84.21322916,January-February 2001,R229
+299,15,"Shehhi, M",4,15_14,36916,January-February 2001,0,"Decatur, GA",United States,Others,"Atlanta, GA",33.77488827,-84.29653493,January-February 2001,R229
+300,15,"Shehhi, M",4,15_15,36916,January-February 2001,1,"Lawrenceville, GA",United States,Others,"Atlanta, GA",33.95636923,-83.98623162,January-February 2001,R229
+301,15,"Shehhi, M",4,15_16,36917,36917,0,"Jacksonville, FL",United States,Florida,"Jacksonville, FL",30.26407,-81.61036,,FBI121
+302,15,"Shehhi, M",4,15_17,36917,36917,24,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,FBI121
+303,15,"Shehhi, M",4,15_18,36941,36941,10,"Virginia Beach, VA",United States,Others,"Virginia Beach, VA",36.85348202,-76.00891003,,R229
+304,15,"Shehhi, M",4,15_19,36951,unknown,34,"Stone Mountain, GA",United States,Others,"Atlanta, GA",33.80830866,-84.17046033,"between 19 Feb and 14 March 2001, same date as Atta, M 01_15",R229
+305,15,"Shehhi, M",4,15_20,36985,36985,7,"Virginia Beach, VA",United States,Others,"Virginia Beach, VA",36.85348202,-76.00891003,,R229
+306,15,"Shehhi, M",4,15_21,36992,36992,7,"Coral Springs, FL",United States,Florida,"Miami, FL",26.27127088,-80.2707399,,R228
+307,15,"Shehhi, M",4,15_22,36999,36999,0,"Miami International Airport, Miami, FL",United States,International,"Miami, FL",25.79618859,-80.28657306,,R230
+308,15,"Shehhi, M",4,15_23,36999,36999,0,Amsterdam,Netherlands,International,Amsterdam,52.30869855,4.769376369,,FBI136
+309,15,"Shehhi, M",4,15_24,36999,36999,14,Cairo,Egypt,International,Cairo,30.04779857,31.24405779,,R230
+310,15,"Shehhi, M",4,15_25,37013,37013,28,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,R231
+311,15,"Shehhi, M",4,15_26,37041,Late May 2001,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,"surveillance flight, late May 2001",R242
+312,15,"Shehhi, M",4,15_27,37041,Late May 2001,1,"San Francisco, CA",United States,Others,"San Francisco, CA",37.78139427,-122.4798203,surveillance flight,R242
+313,15,"Shehhi, M",4,15_28,37042,Late May 2001,0,"Las Vegas Harry Reid International Airport, Las Vegas, NV",United States,California,"Las Vegas, NV",36.07859662,-115.1568348,"surveillance flight, late May 2001",R242
+314,15,"Shehhi, M",4,15_29,37042,Late May 2001,13,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,"presumed return to Miami after surveillance flight, late May 2001",presumed
+315,15,"Shehhi, M",4,15_30,37055,37055,86,"Delray Beach, FL",United States,Florida,"Miami, FL",26.44916,-80.10512,,FBI159
+316,15,"Shehhi, M",4,15_31,37141,37141,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+317,15,"Shehhi, M",4,15_32,37141,37141,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,transit,CTE
+318,15,"Shehhi, M",4,15_33,37141,37141,4,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+319,15,"Shehhi, M",4,15_34,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+320,15,"Shehhi, M",4,15_35,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+321,16,"Shehri,M",4,16_01,37039,37039,0,Dubai,United Arab Emirates,International,Dubai,24.91480452,53.91915664,,T23
+322,16,"Shehri,M",4,16_02,37039,37039,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+323,16,"Shehri,M",4,16_03,37039,37039,90,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,T23
+324,16,"Shehri,M",4,16_04,37129,37129,13,"Delray Beach, FL",United States,Florida,"Miami, FL",26.44916,-80.10512,Library,FBI236
+325,16,"Shehri,M",4,16_05,37142,37142,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+326,16,"Shehri,M",4,16_06,37142,37142,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,transit,CTE
+327,16,"Shehri,M",4,16_07,37142,37142,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,CTE
+328,16,"Shehri,M",4,16_08,37142,37142,3,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+329,16,"Shehri,M",4,16_09,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+330,16,"Shehri,M",4,16_10,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+331,17,"Ghamdi, H",4,17_01,37039,37039,0,Dubai,United Arab Emirates,International,Dubai,24.91480452,53.91915664,,T24
+332,17,"Ghamdi, H",4,17_02,37039,37039,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+333,17,"Ghamdi, H",4,17_03,37039,37039,102,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,T24
+334,17,"Ghamdi, H",4,17_04,37141,37141,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+335,17,"Ghamdi, H",4,17_05,37141,37141,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,,CTE
+336,17,"Ghamdi, H",4,17_06,37141,37141,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+337,17,"Ghamdi, H",4,17_07,37141,37141,4,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+338,17,"Ghamdi, H",4,17_08,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+339,17,"Ghamdi, H",4,17_09,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+340,18,"Banihammad, F",4,18_01,37069,37069,0,Dubai,United Arab Emirates,International,Dubai,25.34175887,55.31339563,,T26
+341,18,"Banihammad, F",4,18_02,37069,37069,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+342,18,"Banihammad, F",4,18_03,37069,37069,58,"Orlando International Airport, FL",United States,Florida,"Orlando, FL",28.41796386,-81.30427385,,"T26, R237"
+343,18,"Banihammad, F",4,18_04,37127,37127,15,"Boca Raton, FL",United States,Florida,"Miami, FL",26.38205,-80.12423,Bank,FBI233
+344,18,"Banihammad, F",4,18_05,37142,37142,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+345,18,"Banihammad, F",4,18_06,37142,37142,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,,CTE
+346,18,"Banihammad, F",4,18_07,37142,37142,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+347,18,"Banihammad, F",4,18_08,37142,37142,3,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+348,18,"Banihammad, F",4,18_09,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+349,18,"Banihammad, F",4,18_10,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253
+350,19,"Ghamdi, A",4,19_01,36831,36831,182,Beirut,Lebanon,International,Beirut,34.0022678,35.53687693,15th,R240
+351,19,"Ghamdi, A",4,19_02,37013,37013,0,Dubai,United Arab Emirates,International,Dubai,24.91480452,53.91915664,,CTE
+352,19,"Ghamdi, A",4,19_03,37013,37013,0,London,United Kingdom,International,London,51.4710849,-0.454381332,transit,CTE
+353,19,"Ghamdi, A",4,19_04,37013,37013,1,"Washington, DC",United States,Northeast,"Washington, DC",38.89327793,-77.03681165,,"T22, R230"
+354,19,"Ghamdi, A",4,19_05,37014,37014,5,"Alexandria, VA",United States,Northeast,"Washington, DC",38.80449873,-77.06308849,"Became Hanjour’s roommate, assuming he entered country and went directly to Alexandria to live with him",CTE
+355,19,"Ghamdi, A",4,19_06,37019,37019,28,"Fairfield, CT",United States,Northeast,NYC,41.14019519,-73.26672532,,R230
+356,19,"Ghamdi, A",4,19_07,37047,"Late May, early June 2001",65,"Paterson, NJ",United States,Northeast,NYC,40.919224,-74.1694185,Late May early June 2001,R230
+357,19,"Ghamdi, A",4,19_08,37112,37112,0,"Newark, NJ",United States,Northeast,NYC,40.68952324,-74.17459115,,CTE
+358,19,"Ghamdi, A",4,19_09,37112,37112,29,"Miami International Airport, Miami, FL",United States,Florida,"Miami, FL",25.79618859,-80.28657306,,R248
+359,19,"Ghamdi, A",4,19_10,37141,37141,0,"Fort Lauderdale, FL",United States,Florida,"Miami, FL",26.23475377,-80.08476381,,CTE
+360,19,"Ghamdi, A",4,19_11,37141,37141,0,"Hartsfield-Jackson Atlanta International Airport, Atlanta, GA",United States,Others,"Atlanta, GA",33.64105851,-84.42979038,transit,CTE
+361,19,"Ghamdi, A",4,19_12,37141,37141,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,CTE
+362,19,"Ghamdi, A",4,19_13,37141,37141,4,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+363,19,"Ghamdi, A",4,19_14,37145,37145,0,"Boston Logan International Airport, Boston, MA",United States,Northeast,"Boston, MA",42.36561318,-71.00966749,,R253
+364,19,"Ghamdi, A",4,19_15,37145,37145,0,"New York City, NY",United States,Northeast,NYC,40.71212598,-74.01324032,,R253

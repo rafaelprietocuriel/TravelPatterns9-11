@@ -1,0 +1,20 @@
+﻿n,name,name_short,job,cell,flight,crash,state,xdeath,ydeath,nationality,birth,age,brother,distance_km
+1,Mohamed Atta,"Atta, M",pilot,1,American Airlines Flight 11,North Tower of the World Trade Center,New York,40.71212598,-74.01324032,Egyptian,Kafr El Sheikh,33,none,87912.4018
+2,Abdul Aziz al Omari,"Omari, A",muscle,1,American Airlines Flight 11,North Tower of the World Trade Center,New York,40.71212598,-74.01324032,Saudi Arabia,Al Awran,22,none,17665.9403
+3,Waleed al Shehri,"Shehri, Wal",muscle,1,American Airlines Flight 11,North Tower of the World Trade Center,New York,40.71212598,-74.01324032,Saudi Arabia,"Namas, then Khamis Musayet",22,Wail al Shehri,28799
+4,Satam al Suqami,"Suqami, S",muscle,1,American Airlines Flight 11,North Tower of the World Trade Center,New York,40.71212598,-74.01324032,Saudi Arabia,Riyadh,25,none,17518.8104
+5,Wail al Shehri,"Shehri, Wai",muscle,1,American Airlines Flight 11,North Tower of the World Trade Center,New York,40.71212598,-74.01324032,Saudi Arabia,Khamis Musayet,28,Waleed al Shehri,16828.3758
+6,Hani Hanjour,"Hanjour, H",pilot,2,American Airlines Flight 77,Pentagon,Virginia,38.87090728,-77.05840341,Saudi Arabia,Taif,29,none,69030.0785
+7,Khalid al Mihdhar,"Mihdhar, K",muscle,2,American Airlines Flight 77,Pentagon,Virginia,38.87090728,-77.05840341,Saudi Arabia,Mecca,26,none,63461.7226
+8,Majed Moqed,"Moqed, M",muscle,2,American Airlines Flight 77,Pentagon,Virginia,38.87090728,-77.05840341,Saudi Arabia,Annakhil (Medina),24,none,15830.8019
+9,Nawaf al Hazmi,"Hazmi, N",muscle,2,American Airlines Flight 77,Pentagon,Virginia,38.87090728,-77.05840341,Saudi Arabia,Mecca,25,Salem al Hamzi,42861.458
+10,Salem al Hazmi,"Hazmi, S",muscle,2,American Airlines Flight 77,Pentagon,Virginia,38.87090728,-77.05840341,Saudi Arabia,Mecca,20,Nawaf al Hazmi,13473.3174
+11,Ziad Samir Jarrah,"Jarrah, Z",pilot,3,United Airlines Flight 93,Stonycreek Township,Pennsylvania,40.06041827,-78.89478597,Lebanon,Mazraa,26,none,142016.773
+12,Saeed al Ghamdi,"Ghamdi, S",muscle,3,United Airlines Flight 93,Stonycreek Township,Pennsylvania,40.06041827,-78.89478597,Saudi Arabia,Baljorashi,21,Ahmed al Ghamdi,17396.7872
+13,Ahmed al Nami,"Nami, A",muscle,3,United Airlines Flight 93,Stonycreek Township,Pennsylvania,40.06041827,-78.89478597,Saudi Arabia,Abha,24,none,17173.6902
+14,Ahmad al Haznawi,"Haznawi, A",muscle,3,United Airlines Flight 93,Stonycreek Township,Pennsylvania,40.06041827,-78.89478597,Saudi Arabia,Baljorashi,20,none,16632.2614
+15,Marwan al Shehhi,"Shehhi, M",pilot,4,United Airlines Flight 175,South Tower of the World Trade Center,New York,40.71102191,-74.0130874,United Arab Emirates,Ras Al Khaimah,23,none,76782.9393
+16,Mohand al Shehri,"Shehri, M",muscle,4,United Airlines Flight 175,South Tower of the World Trade Center,New York,40.71102191,-74.0130874,Saudi Arabia,Tanumah,22,none,17437.7232
+17,Hamza al Ghamdi,"Ghamdi, H",muscle,4,United Airlines Flight 175,South Tower of the World Trade Center,New York,40.71102191,-74.0130874,Saudi Arabia,Ajandam,20,none,17396.6916
+18,Fayez Banihammad,"Banihammad, F",muscle,4,United Airlines Flight 175,South Tower of the World Trade Center,New York,40.71102191,-74.0130874,United Arab Emirates,Khor Fakkan,24,none,17620.2835
+19,Ahmed al Ghamdi,"Ghamdi, A",muscle,4,United Airlines Flight 175,South Tower of the World Trade Center,New York,40.71102191,-74.0130874,Saudi Arabia,Alamarassa,22,Saeed al Ghamdi,21185.5943
