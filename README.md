@@ -29,7 +29,8 @@ Table with the 48 metropolitan areas that were visited by hijackers. They are id
 
 - SocialcontactMatrix
 
-Corresponds to a 19 X 19 table, where cell i,j = 1 if i and j are connected in the social contact network. The table was obtained in the UCINET software datasets. Columns and rows are labelled with the name corresponding to the column "n" on the Attributes table.
+Corresponds to a 19 X 19 table, where cell i,j = 1 if i and j are connected in the social contact network. The data was collected by Krebs, V.E. (2002). Mapping networks of terrorist cells. Connections 24.3: 43-52 and is openly available on the UCINET website (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/911-hijackers). Columns and rows are labelled with the name corresponding to the column "n" on the Attributes table. The data was symmetrized.
+
 
 # How to cite
 If you use this database, please cite it as below: 
