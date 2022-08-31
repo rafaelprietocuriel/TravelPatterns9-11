@@ -1,40 +1,25 @@
-cff-version: 1.0
-message: "If you use this database, please cite it as below"
+cff-version: 1.2.0
+title: Mapping the Travel Geography of the 9/11 Network
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
 authors:
-- family-names: "Walther"
-  given-names: "Olivier"
-  orcid: "https://orcid.org/0000-0002-5768-2845"
-- family-names: "Prieto-Curiel"
-  given-names: "Rafael"
-  orcid: "https://orcid.org/0000-0002-0738-2633"
-- family-names: "Padron"
-  given-names: "Joseph"
-- family-names: "Scheuer"
-  given-names: "Jason"
-title: "Mapping the Travel Geography of the 9/11 Network"
-version: "1.0"
-doi: "10.0000/00000"
-date-released: "2022/09/01"
-url: "https://arxiv.org/"
-preferred-citation:
-  type: article
-  authors:
-  - family-names: "Walther"
-    given-names: "Olivier"
-    orcid: "https://orcid.org/0000-0002-5768-2845"
-  - family-names: "Prieto-Curiel"
-    given-names: "Rafael"
-    orcid: "https://orcid.org/0000-0002-0738-2633"
-  - family-names: "Padron"
-    given-names: "Joseph"
-  - family-names: "Scheuer"
-    given-names: "Jason"
-  doi: "10.0000/00000"
-  journal: "arXiv"
-  month: 9
-  start: 1
-  end: 21
-  title: "Mapping the Travel Geography of the 9/11 Network"
-  issue: 1
-  volume: 1
-  year: 2022
+  - given-names: Olivier
+    email: owalther@ufl.edu
+    family-names: Walther
+    orcid: 'https://orcid.org/0000-0002-5768-2845'
+    affiliation: UFL
+  - given-names: Rafael
+    family-names: Prieto-Curiel
+    orcid: 'https://orcid.org/0000-0002-0738-2633'
+  - given-names: Joseph
+    family-names: Padron
+  - given-names: Jason
+    family-names: Scheuer
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/'
+    description: arXiv link to follow
+keywords:
+  - 9-11
