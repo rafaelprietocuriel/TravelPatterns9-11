@@ -33,4 +33,5 @@ Corresponds to a 19 X 19 table, where cell i,j = 1 if i and j are connected in t
 
 # How to cite
 If you use this database, please cite it as below: 
+
 Walther, O., Prieto Curiel R., Padron, J., Scheuer, J. 2022. Mapping the Travel Geography of the 9/11 Network. arXiv, link to follow.
