@@ -1,5 +1,6 @@
-# RoutesSeptember11
-Data on the routes followed by the 19 people on the September 11 attacks.
+# Travel Patterns 9-11
+Data on the routes followed by the 19 Al Qaeda operatives responsible for the September 11, 2001 attacks against the United States.
+
 
 To map the spatial patterns of the 9/11 hijackers, we collected open data from the 9/11 Commission Report, the 9/11 Travel Staff Report, the U.S. Congress and a redacted document from the FBI (2007) that provides a detailed chronology of events for hijackers and associates. In each document, we searched for the name of the 19 hijackers and reported their location, geographic coordinates, and date of each travel since they left their country.
 
@@ -29,3 +30,7 @@ Table with the 48 metropolitan areas that were visited by hijackers. They are id
 - SocialcontactMatrix
 
 Corresponds to a 19 X 19 table, where cell i,j = 1 if i and j are connected in the social contact network. The table was obtained in the UCINET software datasets. Columns and rows are labelled with the name corresponding to the column "n" on the Attributes table.
+
+# How to cite
+If you use this database, please cite it as below: 
+Walther, O., Prieto Curiel R., Padron, J., Scheuer, J. 2022. Mapping the Travel Geography of the 9/11 Network. arXiv, link to follow.
