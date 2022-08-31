@@ -32,8 +32,8 @@ preferred-citation:
   doi: "10.0000/00000"
   journal: "arXiv"
   month: 9
-  start: 1 # First page number
-  end: 21 # Last page number
+  start: 1
+  end: 21
   title: "Mapping the Travel Geography of the 9/11 Network"
   issue: 1
   volume: 1
