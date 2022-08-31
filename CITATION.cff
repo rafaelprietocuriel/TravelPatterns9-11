@@ -1,0 +1,40 @@
+cff-version: 1.0
+message: "If you use this database, please cite it as below"
+authors:
+- family-names: "Walther"
+  given-names: "Olivier"
+  orcid: "https://orcid.org/0000-0002-5768-2845"
+- family-names: "Prieto-Curiel"
+  given-names: "Rafael"
+  orcid: "https://orcid.org/0000-0002-0738-2633"
+- family-names: "Padron"
+  given-names: "Joseph"
+- family-names: "Scheuer"
+  given-names: "Jason"
+title: "Mapping the Travel Geography of the 9/11 Network"
+version: 1.0
+doi: "10.0000/00000"
+date-released: 
+url: "https://arxiv.org/"
+preferred-citation:
+  type: article
+  authors:
+- family-names: "Walther"
+  given-names: "Olivier"
+  orcid: "https://orcid.org/0000-0002-5768-2845"
+- family-names: "Prieto-Curiel"
+  given-names: "Rafael"
+  orcid: "https://orcid.org/0000-0002-0738-2633"
+- family-names: "Padron"
+  given-names: "Joseph"
+- family-names: "Scheuer"
+  given-names: "Jason"
+  doi: "10.0000/00000"
+  journal: "arXiv"
+  month: 9
+  start: 1 # First page number
+  end: 21 # Last page number
+  title: "Mapping the Travel Geography of the 9/11 Network"
+  issue: 1
+  volume: 1
+  year: 2022
