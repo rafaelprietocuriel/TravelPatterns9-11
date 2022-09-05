@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: Mapping the Travel Geography of the 9/11 Network
+title: Mapping the Travel Geography of the 9/11 Terrorist Network
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
@@ -13,13 +13,14 @@ authors:
   - given-names: Rafael
     family-names: Prieto-Curiel
     orcid: 'https://orcid.org/0000-0002-0738-2633'
+    affiliation: Complexity Science Hub Vienna
   - given-names: Joseph
     family-names: Padron
   - given-names: Jason
     family-names: Scheuer
 identifiers:
   - type: url
-    value: 'https://arxiv.org/'
-    description: arXiv link to follow
+    value: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206577'
+    description: Available at SSRN
 keywords:
   - 9-11
