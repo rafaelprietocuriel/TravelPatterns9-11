@@ -27,7 +27,7 @@ Table sorted chronologically and by the actor. Each row contains a location wher
 Table with the 48 metropolitan areas that were visited by hijackers. They are identified by the column "POI". Contain the coordinates and the number of times that it was the beginning or end of a journey.
 
 
-- SocialcontactMatrix
+- SocialContactMatrix
 
 Corresponds to a 19 X 19 table, where cell i,j = 1 if i and j are connected in the social contact network. The data was collected by Krebs, V.E. (2002). Mapping networks of terrorist cells. Connections 24.3: 43-52 and is openly available on the UCINET website (https://sites.google.com/site/ucinetsoftware/datasets/covert-networks/911-hijackers). Columns and rows are labelled with the name corresponding to the column "n" on the Attributes table. The data was symmetrized.
 
