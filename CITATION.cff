@@ -13,14 +13,14 @@ authors:
   - given-names: Rafael
     family-names: Prieto-Curiel
     orcid: 'https://orcid.org/0000-0002-0738-2633'
-    affiliation: Complexity Science Hub Vienna
+    affiliation: Complexity Science Hub
   - given-names: Joseph
     family-names: Padron
   - given-names: Jason
     family-names: Scheuer
 identifiers:
   - type: url
-    value: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4206577'
-    description: Available at SSRN
+    value: 'https://www.tandfonline.com/doi/abs/10.1080/00330124.2023.2199324'
+    description: The Professional Geographer
 keywords:
   - 9-11
